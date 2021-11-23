@@ -1,10 +1,10 @@
 @media screen and (max-width: 1280px) { 
     div.header {width: 1200px;}
        }
-@media screen and (max-width: 1280px) { 
+@media screen { 
     div.content {left:55px;}
        }
-@media screen and (max-width: 1280px) { 
+@media screen { 
     div.hat {left:250px;}
        }
 @font-face {
@@ -36,7 +36,7 @@ background-color: #F2F2F2;
 }
 
 .header{
-    
+    position:relative;
     width: 100%;
     height: 70px;
     background-color:khaki;
@@ -45,7 +45,7 @@ background-color: #F2F2F2;
 }
 
 .content{
-   
+   position:relative;
     border-top-right-radius: 50px;
     position:relative;
     width: 1000px;
