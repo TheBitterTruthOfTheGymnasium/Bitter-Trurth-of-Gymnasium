@@ -1,0 +1,81 @@
+@font-face {
+    font-family: Anton-Regular;
+    src: url(/fonts/Anton-Regular.ttf);
+    font-style: normal; 
+font-weight: normal;
+} 
+@font-face {
+    font-family: RobotoMono-Italic-VariableFont_wght;
+    src: url(/fonts/RobotoMono-Italic-VariableFont_wght.ttf);
+    font-style: normal; 
+    font-weight: normal;
+}
+@font-face {
+    font-family: RobotoMono-VariableFont_wght;
+    src: url(/fonts/RobotoMono-VariableFont_wght.ttf);
+    font-style: normal; 
+    font-weight: normal;
+}
+
+body{
+margin: 0px;
+padding: 0px;
+font-family: Anton-Regular;
+font-size: 50px;
+text-align: center;
+background-color: #F2F2F2;
+}
+
+.header{
+    position: relative;
+    width: 100%;
+    height: 70px;
+    background-color:khaki;
+    color: red;
+    
+}
+
+.content{
+   
+    border-top-right-radius: 50px;
+    position: relative;
+    width: 1000px;
+    top: 150px;
+    height: 300px;
+    left: 450px;
+    right: 500px;
+    background-color: white;
+}
+p{
+    font-family: RobotoMono-VariableFont_wght;
+    font-size: 20px;
+
+}
+.instagram{
+    font-family: RobotoMono-VariableFont_wght;
+    position: absolute;
+    left: 650px;
+    top:650px;
+    
+}
+.insta{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: 40px;
+    bottom: -32px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.hat{
+    position: absolute;
+    z-index: 0;
+    top: 130px;
+    left: 1350px;
+   width: 200px;
+}
+span{
+    color: red;
+}
