@@ -70,7 +70,7 @@ p{
 .insta{
     width: 100px;
     height: 100px;
-   
+   position: relative;
     right: 40px;
     bottom: -32px;
 }
