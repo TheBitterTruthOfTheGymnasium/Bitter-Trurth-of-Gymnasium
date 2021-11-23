@@ -43,7 +43,7 @@ background-color: #F2F2F2;
     position: relative;
     width: 1200px;
     top: 150px;
-    height: 2100px;
+    height: 2200px;
     left: 450px;
     right: 500px;
     background-color: white;
@@ -55,7 +55,7 @@ p{
 }
 .instagram{
     font-family: RobotoMono-VariableFont_wght;
-    position: relative;
+    position: absolute;
     top:120px;
     left: 450px;
     
