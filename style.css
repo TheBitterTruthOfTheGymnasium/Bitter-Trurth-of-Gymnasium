@@ -5,7 +5,7 @@
     div.content {left:55px;}
        }
 @media screen { 
-    div.hat {left:250px;}
+    div.hat {bottom:0px;}
        }
 @font-face {
     font-family: Anton-Regular;
