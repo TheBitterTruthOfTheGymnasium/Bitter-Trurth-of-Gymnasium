@@ -22,19 +22,19 @@ body{
 margin: 0px;
 padding: 0px;
 font-family: Anton-Regular;
-font-size: 70px;
-text-align: center;
+font-size: 80px;
+
 background-color: #F2F2F2;
 
 }
 
 .header{
     position: relative;
-    width: 100%;
-    height: 100px;
+    width: 2000px;
+    height: 110px;
     background-color:khaki;
     color: red;
-    
+    text-align: center;
 }
 
 .content{
@@ -44,7 +44,7 @@ background-color: #F2F2F2;
     width: 1000px;
     top: 150px;
     height: 1900px;
-    left: 450px;
+    left: 250px;
     right: 500px;
     background-color: white;
 }
@@ -57,7 +57,7 @@ p{
     font-family: RobotoMono-VariableFont_wght;
     position: relative;
     top:120px;
-    left: 30px;
+    left: 650px;
     
 }
 .insta{
@@ -74,8 +74,8 @@ a{
 .hat{
     position: absolute;
     z-index: 0;
-    top: 210px;
-    left: 1350px;
+    top: 218px;
+    left: 1150px;
    width: 200px;
 }
 span{
