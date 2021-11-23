@@ -2,7 +2,10 @@
     div.header {width: 1200px;}
        }
 @media screen and (max-width: 1280px) { 
-    div.content {left:50px;}
+    div.content {left:55px;}
+       }
+@media screen and (max-width: 1280px) { 
+    div.hat {left:100px;}
        }
 @font-face {
     font-family: Anton-Regular;
@@ -59,7 +62,7 @@ p{
 }
 .instagram{
     font-family: RobotoMono-VariableFont_wght;
-  
+  position: absolute;
     left: 650px;
     top:650px;
     
