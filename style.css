@@ -41,7 +41,7 @@ background-color: #F2F2F2;
    
     border-top-right-radius: 50px;
     position: relative;
-    width: 1000px;
+    width: 1200px;
     top: 150px;
     height: 2100px;
     left: 450px;
@@ -57,7 +57,7 @@ p{
     font-family: RobotoMono-VariableFont_wght;
     position: relative;
     top:120px;
-    left: 350px;
+    left: 450px;
     
 }
 .insta{
@@ -75,7 +75,7 @@ a{
     position: absolute;
     z-index: 0;
     top: 239px;
-    left: 1350px;
+    left: 1550px;
    width: 200px;
 }
 span{
