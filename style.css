@@ -79,7 +79,7 @@ a{
     color: black;
 }
 .hat{
-    
+    position: absolute;
     z-index: 0;
     top: 130px;
     left: 1350px;
