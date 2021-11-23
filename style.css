@@ -1,8 +1,7 @@
 @media screen and (max-width: 1280px) { 
     div.header {width: 1200px;}
-    div.content {left: 450px;  right: 500px;}
-       
-    
+    div.content {top:100000px;}
+          
 }
 @font-face {
     font-family: Anton-Regular;
