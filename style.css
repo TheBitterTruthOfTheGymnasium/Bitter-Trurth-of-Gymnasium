@@ -32,7 +32,7 @@ background-color: #F2F2F2;
 
 .header{
     position: absolute;
-    width: 1690px;
+    width: 1675px;
     height: 150px;
     background-color:khaki;
     color: red;
@@ -44,7 +44,7 @@ background-color: #F2F2F2;
     border-top-right-radius: 50px;
     position: absolute;
     width: 1200px;
-    top: 350px;
+    top: 550px;
     height: 1750px;
     left: 180px;
     right: 500px;
@@ -76,7 +76,7 @@ a{
 .hat{
     position: absolute;
     z-index: 0;
-    top: 239px;
+    top: 440px;
     left: 1300px;
    width: 200px;
 }
