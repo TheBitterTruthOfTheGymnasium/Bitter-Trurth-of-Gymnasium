@@ -103,5 +103,6 @@ span{
     position: relative;
     font-size: 10px;
     text-decoration: line-through;
-    left: 560px;
+        left: 450px;
+    font-size: 20px;
 }
