@@ -52,7 +52,9 @@ background-color: #F2F2F2;
 }
 p{
     font-family: RobotoMono-VariableFont_wght;
-    font-size: 65px;
+    font-size: 300px;
+    position: relative;
+    top:-179px;
 
 }
 .instagram{
@@ -110,8 +112,8 @@ span{
     position:relative; 
     top:-40px;
 }
-.yusssuf{
+.goat{
     position:relative;
-    top: -35px;
+    top: -400px;
     left: 0px;
 }
