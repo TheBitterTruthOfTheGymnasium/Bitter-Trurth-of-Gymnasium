@@ -1,0 +1,17 @@
+ 
+@font-face {
+    font-family: CarroisGothic-Regular;
+    src: url(CarroisGothic-Regular.ttf);
+    font-style: normal; 
+font-weight: normal;
+}
+
+body{
+    margin: 10px;
+    background: url(clay.jpg) repeat;
+}
+p{
+    color: white;
+    font-size: 54px;
+    font-family:CarroisGothic-Regular;
+}
