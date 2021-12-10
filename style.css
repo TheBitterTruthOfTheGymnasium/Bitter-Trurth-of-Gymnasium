@@ -16,3 +16,11 @@ p{
     font-size: 54px;
     font-family:CarroisGothic-Regular;
 }
+video{
+    position: relative;
+    top: 75px;
+}
+.info{
+    position: relative;
+    top: 80px;
+}
