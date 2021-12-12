@@ -1,0 +1,26 @@
+ 
+@font-face {
+    font-family: Lobster-Regular;
+    src: url(Lobster-Regular.ttf);
+    font-style: normal; 
+font-weight: normal;
+}
+
+body{
+    margin: 10px;
+    background: url(clay.jpg) repeat;
+}
+p{
+    color: white;
+    z-index: 1;
+    font-size: 75px;
+    font-family:Lobster-Regular;
+}
+video{
+    position: relative;
+    top: 75px;
+}
+.info{
+    position: relative;
+    top: 80px;
+}
