@@ -53,6 +53,8 @@ body {
     height: 500px; 
     padding: 25px; 
     border: solid 1px black; 
+    background-color: #E6E6FA;
+    color: black;
    } 
    p{
      font-size: 25px;
